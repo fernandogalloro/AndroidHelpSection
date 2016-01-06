@@ -4,10 +4,10 @@ Este é um projeto exemplo que tem como finalidade ajudar a todos que precisam i
 
 Os indicadores das páginas são gerenciados automaticamente de acordo com a quantidade de páginas da ajuda.
 
+<img src="/imagens/screenshot_1.png" width="300">
 
-![Imagem 1](/imagens/screenshot_1.png?raw=true "Imagem 1")
+<img src="/imagens/screenshot_1.png" width="300">
 
-![Imagem 2](/imagens/screenshot_2.png?raw=true "Imagem 2")
 
 
 
