@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Help section</string>
+    <string name="txt_page_content_1">PAGE CONTENT 1</string>
+    <string name="txt_page_content_2">PAGE CONTENT 2</string>
+    <string name="txt_page_content_3">PAGE CONTENT 3</string>
+    <string name="txt_page_content_4">PAGE CONTENT 4</string>
+    <string name="txt_page_content_5">PAGE CONTENT 5</string>
+    <string name="txt_page_description">You can add anything here. Text, image, button, link etc. It\'s a normal view :)</string>
+</resources>
